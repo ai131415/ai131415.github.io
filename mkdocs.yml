@@ -1,3 +1,4 @@
 site_name: 我的网站
 theme:
   name: material
+# 所有的网站样式都在这个文件里
